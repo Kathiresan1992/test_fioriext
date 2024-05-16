@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "mydatabase",
+            "database": "${workspaceFolder:projects}/mycapm/db.sqlite"
+        }
+    ]
+}
